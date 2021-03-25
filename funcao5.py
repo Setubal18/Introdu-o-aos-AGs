@@ -9,4 +9,4 @@ def binarioSeguidoDeReal(string):
         raise Exception('Número menor ou maior que o permitido')
 
 
-print(binarioSeguidoDeReal('11001100'))
+#print(binarioSeguidoDeReal('11001100'))

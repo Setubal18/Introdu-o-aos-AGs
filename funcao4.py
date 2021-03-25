@@ -8,5 +8,5 @@ def criaListaDeStrings():
     #oito valores zero ou um (podem ser criadas aleatoriamente),
     #retornando-a
 
-print(criaListaDeStrings())
+#print(criaListaDeStrings())
 #saida na tela: ['10101101','10110101','01101010',...,'10101010']

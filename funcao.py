@@ -9,5 +9,5 @@ def converteBinarioReal(string):
     #fracionária de um número binário.
     #A função deverá retornar este número convertido para um número real (float)
 
-print(converteBinarioReal('11001100'))
-# saida na tela: 3.12print(converteBinarioReal('110011001'))
+#print(converteBinarioReal('11001100'))
+# saida na tela: 3.12

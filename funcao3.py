@@ -10,5 +10,5 @@ def criaString():
     
     #cria uma string com oito valores aleatórios zeros ou uns, retornando-a
 
-print(criaString())
+#print(criaString())
 #saida na tela: 11001100
