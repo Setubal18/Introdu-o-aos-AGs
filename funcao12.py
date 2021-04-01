@@ -9,5 +9,6 @@ def cruzaDois(stringA,stringB):
     #-->e a outra string será composta pelos dois primeiros valores da segunda string
     #seguidos pelos quatro do meio da primeira e pelos dois últimos da segunda string
 
-print(cruzaDois('10110100','11001000'))
+#print(cruzaDois('10110100','11001000'))
+
 #saida na tela: ['10001000','11110100']
