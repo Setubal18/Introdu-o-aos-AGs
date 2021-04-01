@@ -4,15 +4,9 @@ def combina(lista):
     listaSubistituta = []
     for i in range(len(lista)):
         l = 1
-        print('for l',l)
-        print('for i',i)
-        print('-----------------')
         while l <= len(lista):
-            print('while l',l)
-            print('while i',i)
             listaSubistituta.append([lista[i][0],lista[l][0]])
             l += 1
-        print('final for ------------------------')
     return listaSubistituta
     #recebe uma lista com dez strings e retorna uma lista de sublistas
     #as sublistas são compostas por duas strings, combinando duas a duas todas as
